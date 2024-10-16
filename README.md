@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Nandini675/dsa/tree/master/0410-split-array-largest-sum) |
+| [1304-longest-happy-string](https://github.com/Nandini675/dsa/tree/master/1304-longest-happy-string) |
 | [2032-largest-odd-number-in-string](https://github.com/Nandini675/dsa/tree/master/2032-largest-odd-number-in-string) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Nandini675/dsa/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Prefix Sum
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Nandini675/dsa/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/Nandini675/dsa/tree/master/0451-sort-characters-by-frequency) |
 | [0812-rotate-string](https://github.com/Nandini675/dsa/tree/master/0812-rotate-string) |
+| [1304-longest-happy-string](https://github.com/Nandini675/dsa/tree/master/1304-longest-happy-string) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Nandini675/dsa/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Nandini675/dsa/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2032-largest-odd-number-in-string](https://github.com/Nandini675/dsa/tree/master/2032-largest-odd-number-in-string) |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Nandini675/dsa/tree/master/0451-sort-characters-by-frequency) |
+| [1304-longest-happy-string](https://github.com/Nandini675/dsa/tree/master/1304-longest-happy-string) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Nandini675/dsa/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Bucket Sort
 |  |
