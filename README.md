@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Nandini675/dsa/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Nandini675/dsa/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/Nandini675/dsa/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/Nandini675/dsa/tree/master/0012-integer-to-roman) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Nandini675/dsa/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Nandini675/dsa/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Nandini675/dsa/tree/master/0013-roman-to-integer) |
 | [0138-copy-list-with-random-pointer](https://github.com/Nandini675/dsa/tree/master/0138-copy-list-with-random-pointer) |
@@ -223,4 +225,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Nandini675/dsa/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Nandini675/dsa/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
