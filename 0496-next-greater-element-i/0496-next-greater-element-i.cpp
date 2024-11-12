@@ -1,27 +1,37 @@
 class Solution {
 public:
-    vector<int> nextGreaterElement(vector<int>& nums1, vector<int>& nums2) {
-      unordered_map<int,int> mpp;
-      stack<int> st;
+ vector<int> greaterele(vector<int>nums2){
+    vector<int>ans(nums2.size()) ;
+        stack<int>s;
+        s.push(-1);
+        for(int i=nums2.size()-1;i>=0;i--){
+            while(s.top()!=-1&& nums2[i]>s.top()){
+s.pop();
 
-      for(int i = nums2.size()-1 ; i>=0; i--){
-        
-// check if the stack holds any values and compare them with array values.   
-        while(!st.empty() && st.top() <= nums2[i]){
-// if the values in the stack are less than the array values delete them.
-        st.pop();
+
+
+            }
+            ans[i]=s.top();
+            s.push(nums2[i]);
         }
-        // if stack is not empty set the value to the top.
-        if(!st.empty()) mpp[nums2[i]] = st.top();
-        else mpp[nums2[i]] = -1;
-        st.push(nums2[i]);
+        return ans;
+ }
+    vector<int> nextGreaterElement(vector<int>& nums1, vector<int>& nums2) {
+      vector<int>greaterelarray(nums2.size());
+      vector<int>an;
+      greaterelarray= greaterele(nums2);
+      for(int i=0;i<nums1.size();i++){
+        for(int j=0;j<nums2.size();j++){
+            if(nums2[j]==nums1[i]){
+            
+ an.push_back(greaterelarray[j]);
+               
+                }
+            }
+           
+        }
+ return an;
       }
-      vector<int> ans;
-// check for array-1 values in map and store them.
-      for(int num:nums1){
-        ans.push_back(mpp[num]);
-      }
-      return ans;
-    }
+
     
 };
