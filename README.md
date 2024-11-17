@@ -235,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Nandini675/dsa/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
+| [0904-leaf-similar-trees](https://github.com/Nandini675/dsa/tree/master/0904-leaf-similar-trees) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0904-leaf-similar-trees](https://github.com/Nandini675/dsa/tree/master/0904-leaf-similar-trees) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Nandini675/dsa/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0904-leaf-similar-trees](https://github.com/Nandini675/dsa/tree/master/0904-leaf-similar-trees) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Nandini675/dsa/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Sliding Window
 |  |
