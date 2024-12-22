@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Nandini675/dsa/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/Nandini675/dsa/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/Nandini675/dsa/tree/master/0496-next-greater-element-i) |
+| [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Nandini675/dsa/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Nandini675/dsa/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Nandini675/dsa/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Nandini675/dsa/tree/master/1890-sum-of-beauty-of-all-substrings) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Nandini675/dsa/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Nandini675/dsa/tree/master/0662-maximum-width-of-binary-tree) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Nandini675/dsa/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
+| [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Nandini675/dsa/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0904-leaf-similar-trees](https://github.com/Nandini675/dsa/tree/master/0904-leaf-similar-trees) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Nandini675/dsa/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Nandini675/dsa/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -296,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/Nandini675/dsa/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Nandini675/dsa/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Nandini675/dsa/tree/master/0662-maximum-width-of-binary-tree) |
+| [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Nandini675/dsa/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0904-leaf-similar-trees](https://github.com/Nandini675/dsa/tree/master/0904-leaf-similar-trees) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Nandini675/dsa/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Nandini675/dsa/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -308,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Nandini675/dsa/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Nandini675/dsa/tree/master/0199-binary-tree-right-side-view) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Nandini675/dsa/tree/master/0662-maximum-width-of-binary-tree) |
+| [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Nandini675/dsa/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Nandini675/dsa/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Nandini675/dsa/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Nandini675/dsa/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
@@ -326,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/Nandini675/dsa/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Nandini675/dsa/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Nandini675/dsa/tree/master/0662-maximum-width-of-binary-tree) |
+| [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Nandini675/dsa/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0904-leaf-similar-trees](https://github.com/Nandini675/dsa/tree/master/0904-leaf-similar-trees) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Nandini675/dsa/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Nandini675/dsa/tree/master/2493-reverse-odd-levels-of-binary-tree) |
