@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2292-counting-words-with-a-given-prefix](https://github.com/Nandini675/dsa/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Nandini675/dsa/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Nandini675/dsa/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2685-first-completely-painted-row-or-column](https://github.com/Nandini675/dsa/tree/master/2685-first-completely-painted-row-or-column) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Nandini675/dsa/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/Nandini675/dsa/tree/master/2716-prime-subtraction-operation) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Nandini675/dsa/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/Nandini675/dsa/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Nandini675/dsa/tree/master/1073-number-of-enclaves) |
 | [2047-find-a-peak-element-ii](https://github.com/Nandini675/dsa/tree/master/2047-find-a-peak-element-ii) |
+| [2685-first-completely-painted-row-or-column](https://github.com/Nandini675/dsa/tree/master/2685-first-completely-painted-row-or-column) |
 ## Two Pointers
 |  |
 | ------- |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Nandini675/dsa/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Nandini675/dsa/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Nandini675/dsa/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2685-first-completely-painted-row-or-column](https://github.com/Nandini675/dsa/tree/master/2685-first-completely-painted-row-or-column) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Nandini675/dsa/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## String Matching
 |  |
