@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Nandini675/dsa/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Nandini675/dsa/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Nandini675/dsa/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/Nandini675/dsa/tree/master/0067-add-binary) |
 | [0127-word-ladder](https://github.com/Nandini675/dsa/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/Nandini675/dsa/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Nandini675/dsa/tree/master/0205-isomorphic-strings) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Nandini675/dsa/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Nandini675/dsa/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/Nandini675/dsa/tree/master/0050-powx-n) |
+| [0067-add-binary](https://github.com/Nandini675/dsa/tree/master/0067-add-binary) |
 | [0670-maximum-swap](https://github.com/Nandini675/dsa/tree/master/0670-maximum-swap) |
 | [2032-largest-odd-number-in-string](https://github.com/Nandini675/dsa/tree/master/2032-largest-odd-number-in-string) |
 | [2716-prime-subtraction-operation](https://github.com/Nandini675/dsa/tree/master/2716-prime-subtraction-operation) |
@@ -443,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Nandini675/dsa/tree/master/0067-add-binary) |
 | [0222-count-complete-tree-nodes](https://github.com/Nandini675/dsa/tree/master/0222-count-complete-tree-nodes) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Nandini675/dsa/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Nandini675/dsa/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -455,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Nandini675/dsa/tree/master/0067-add-binary) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Nandini675/dsa/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Design
 |  |
