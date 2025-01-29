@@ -332,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Nandini675/dsa/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Nandini675/dsa/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Nandini675/dsa/tree/master/0662-maximum-width-of-binary-tree) |
+| [0684-redundant-connection](https://github.com/Nandini675/dsa/tree/master/0684-redundant-connection) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Nandini675/dsa/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0801-is-graph-bipartite](https://github.com/Nandini675/dsa/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/Nandini675/dsa/tree/master/0820-find-eventual-safe-states) |
@@ -403,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Nandini675/dsa/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Nandini675/dsa/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Nandini675/dsa/tree/master/0662-maximum-width-of-binary-tree) |
+| [0684-redundant-connection](https://github.com/Nandini675/dsa/tree/master/0684-redundant-connection) |
 | [0801-is-graph-bipartite](https://github.com/Nandini675/dsa/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/Nandini675/dsa/tree/master/0820-find-eventual-safe-states) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Nandini675/dsa/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -501,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Nandini675/dsa/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Nandini675/dsa/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/Nandini675/dsa/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/Nandini675/dsa/tree/master/0684-redundant-connection) |
 | [0801-is-graph-bipartite](https://github.com/Nandini675/dsa/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/Nandini675/dsa/tree/master/0820-find-eventual-safe-states) |
 | [1039-find-the-town-judge](https://github.com/Nandini675/dsa/tree/master/1039-find-the-town-judge) |
@@ -517,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/Nandini675/dsa/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/Nandini675/dsa/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/Nandini675/dsa/tree/master/0684-redundant-connection) |
 | [0801-is-graph-bipartite](https://github.com/Nandini675/dsa/tree/master/0801-is-graph-bipartite) |
 | [1073-number-of-enclaves](https://github.com/Nandini675/dsa/tree/master/1073-number-of-enclaves) |
 | [1396-count-servers-that-communicate](https://github.com/Nandini675/dsa/tree/master/1396-count-servers-that-communicate) |
