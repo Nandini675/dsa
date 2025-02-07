@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Nandini675/dsa/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Nandini675/dsa/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/Nandini675/dsa/tree/master/1646-kth-missing-positive-number) |
+| [1753-path-with-minimum-effort](https://github.com/Nandini675/dsa/tree/master/1753-path-with-minimum-effort) |
 | [1755-defuse-the-bomb](https://github.com/Nandini675/dsa/tree/master/1755-defuse-the-bomb) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Nandini675/dsa/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Nandini675/dsa/tree/master/1927-maximum-ascending-subarray-sum) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Nandini675/dsa/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Nandini675/dsa/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/Nandini675/dsa/tree/master/1646-kth-missing-positive-number) |
+| [1753-path-with-minimum-effort](https://github.com/Nandini675/dsa/tree/master/1753-path-with-minimum-effort) |
 | [2047-find-a-peak-element-ii](https://github.com/Nandini675/dsa/tree/master/2047-find-a-peak-element-ii) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Nandini675/dsa/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Nandini675/dsa/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1073-number-of-enclaves](https://github.com/Nandini675/dsa/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Nandini675/dsa/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1396-count-servers-that-communicate](https://github.com/Nandini675/dsa/tree/master/1396-count-servers-that-communicate) |
+| [1753-path-with-minimum-effort](https://github.com/Nandini675/dsa/tree/master/1753-path-with-minimum-effort) |
 | [2047-find-a-peak-element-ii](https://github.com/Nandini675/dsa/tree/master/2047-find-a-peak-element-ii) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Nandini675/dsa/tree/master/2685-first-completely-painted-row-or-column) |
 ## Two Pointers
@@ -247,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Nandini675/dsa/tree/master/0451-sort-characters-by-frequency) |
 | [1304-longest-happy-string](https://github.com/Nandini675/dsa/tree/master/1304-longest-happy-string) |
+| [1753-path-with-minimum-effort](https://github.com/Nandini675/dsa/tree/master/1753-path-with-minimum-effort) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Nandini675/dsa/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Nandini675/dsa/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Bucket Sort
@@ -348,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Nandini675/dsa/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1073-number-of-enclaves](https://github.com/Nandini675/dsa/tree/master/1073-number-of-enclaves) |
 | [1396-count-servers-that-communicate](https://github.com/Nandini675/dsa/tree/master/1396-count-servers-that-communicate) |
+| [1753-path-with-minimum-effort](https://github.com/Nandini675/dsa/tree/master/1753-path-with-minimum-effort) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Nandini675/dsa/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Doubly-Linked List
 |  |
@@ -420,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1073-number-of-enclaves](https://github.com/Nandini675/dsa/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Nandini675/dsa/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1396-count-servers-that-communicate](https://github.com/Nandini675/dsa/tree/master/1396-count-servers-that-communicate) |
+| [1753-path-with-minimum-effort](https://github.com/Nandini675/dsa/tree/master/1753-path-with-minimum-effort) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Nandini675/dsa/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Nandini675/dsa/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Nandini675/dsa/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
@@ -532,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0801-is-graph-bipartite](https://github.com/Nandini675/dsa/tree/master/0801-is-graph-bipartite) |
 | [1073-number-of-enclaves](https://github.com/Nandini675/dsa/tree/master/1073-number-of-enclaves) |
 | [1396-count-servers-that-communicate](https://github.com/Nandini675/dsa/tree/master/1396-count-servers-that-communicate) |
+| [1753-path-with-minimum-effort](https://github.com/Nandini675/dsa/tree/master/1753-path-with-minimum-effort) |
 ## Topological Sort
 |  |
 | ------- |
