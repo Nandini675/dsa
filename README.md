@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1171-shortest-path-in-binary-matrix](https://github.com/Nandini675/dsa/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1396-count-servers-that-communicate](https://github.com/Nandini675/dsa/tree/master/1396-count-servers-that-communicate) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Nandini675/dsa/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1477-product-of-the-last-k-numbers](https://github.com/Nandini675/dsa/tree/master/1477-product-of-the-last-k-numbers) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Nandini675/dsa/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Nandini675/dsa/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/Nandini675/dsa/tree/master/1646-kth-missing-positive-number) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Nandini675/dsa/tree/master/0410-split-array-largest-sum) |
+| [1477-product-of-the-last-k-numbers](https://github.com/Nandini675/dsa/tree/master/1477-product-of-the-last-k-numbers) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Nandini675/dsa/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Nandini675/dsa/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Divide and Conquer
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Nandini675/dsa/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Nandini675/dsa/tree/master/0069-sqrtx) |
 | [0670-maximum-swap](https://github.com/Nandini675/dsa/tree/master/0670-maximum-swap) |
+| [1477-product-of-the-last-k-numbers](https://github.com/Nandini675/dsa/tree/master/1477-product-of-the-last-k-numbers) |
 | [2032-largest-odd-number-in-string](https://github.com/Nandini675/dsa/tree/master/2032-largest-odd-number-in-string) |
 | [2716-prime-subtraction-operation](https://github.com/Nandini675/dsa/tree/master/2716-prime-subtraction-operation) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Nandini675/dsa/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -506,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Nandini675/dsa/tree/master/0173-binary-search-tree-iterator) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Nandini675/dsa/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [1477-product-of-the-last-k-numbers](https://github.com/Nandini675/dsa/tree/master/1477-product-of-the-last-k-numbers) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -567,4 +571,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-network-delay-time](https://github.com/Nandini675/dsa/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Nandini675/dsa/tree/master/0803-cheapest-flights-within-k-stops) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Nandini675/dsa/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+## Data Stream
+|  |
+| ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/Nandini675/dsa/tree/master/1477-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
