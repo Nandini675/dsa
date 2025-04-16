@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Nandini675/dsa/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Nandini675/dsa/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2551-apply-operations-to-an-array](https://github.com/Nandini675/dsa/tree/master/2551-apply-operations-to-an-array) |
+| [2626-count-the-number-of-good-subarrays](https://github.com/Nandini675/dsa/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2681-put-marbles-in-bags](https://github.com/Nandini675/dsa/tree/master/2681-put-marbles-in-bags) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Nandini675/dsa/tree/master/2685-first-completely-painted-row-or-column) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Nandini675/dsa/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Nandini675/dsa/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Nandini675/dsa/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Nandini675/dsa/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2626-count-the-number-of-good-subarrays](https://github.com/Nandini675/dsa/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Nandini675/dsa/tree/master/2685-first-completely-painted-row-or-column) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Nandini675/dsa/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## String Matching
@@ -512,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Nandini675/dsa/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1755-defuse-the-bomb](https://github.com/Nandini675/dsa/tree/master/1755-defuse-the-bomb) |
+| [2626-count-the-number-of-good-subarrays](https://github.com/Nandini675/dsa/tree/master/2626-count-the-number-of-good-subarrays) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Nandini675/dsa/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Bit Manipulation
 |  |
