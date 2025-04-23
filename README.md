@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Nandini675/dsa/tree/master/0070-climbing-stairs) |
 | [0670-maximum-swap](https://github.com/Nandini675/dsa/tree/master/0670-maximum-swap) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Nandini675/dsa/tree/master/1477-product-of-the-last-k-numbers) |
+| [1500-count-largest-group](https://github.com/Nandini675/dsa/tree/master/1500-count-largest-group) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Nandini675/dsa/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2032-largest-odd-number-in-string](https://github.com/Nandini675/dsa/tree/master/2032-largest-odd-number-in-string) |
 | [2716-prime-subtraction-operation](https://github.com/Nandini675/dsa/tree/master/2716-prime-subtraction-operation) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Nandini675/dsa/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Nandini675/dsa/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1039-find-the-town-judge](https://github.com/Nandini675/dsa/tree/master/1039-find-the-town-judge) |
+| [1500-count-largest-group](https://github.com/Nandini675/dsa/tree/master/1500-count-largest-group) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Nandini675/dsa/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Nandini675/dsa/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Nandini675/dsa/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
