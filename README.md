@@ -229,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1500-count-largest-group](https://github.com/Nandini675/dsa/tree/master/1500-count-largest-group) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Nandini675/dsa/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2032-largest-odd-number-in-string](https://github.com/Nandini675/dsa/tree/master/2032-largest-odd-number-in-string) |
+| [2050-count-good-numbers](https://github.com/Nandini675/dsa/tree/master/2050-count-good-numbers) |
 | [2716-prime-subtraction-operation](https://github.com/Nandini675/dsa/tree/master/2716-prime-subtraction-operation) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Nandini675/dsa/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Trie
@@ -363,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Nandini675/dsa/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Nandini675/dsa/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Nandini675/dsa/tree/master/0234-palindrome-linked-list) |
+| [2050-count-good-numbers](https://github.com/Nandini675/dsa/tree/master/2050-count-good-numbers) |
 ## Monotonic Stack
 |  |
 | ------- |
