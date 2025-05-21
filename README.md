@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Nandini675/dsa/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Nandini675/dsa/tree/master/3291-find-if-array-can-be-sorted) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Nandini675/dsa/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3321-type-of-triangle](https://github.com/Nandini675/dsa/tree/master/3321-type-of-triangle) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Nandini675/dsa/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3430-count-days-without-meetings](https://github.com/Nandini675/dsa/tree/master/3430-count-days-without-meetings) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Nandini675/dsa/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2032-largest-odd-number-in-string](https://github.com/Nandini675/dsa/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/Nandini675/dsa/tree/master/2050-count-good-numbers) |
 | [2716-prime-subtraction-operation](https://github.com/Nandini675/dsa/tree/master/2716-prime-subtraction-operation) |
+| [3321-type-of-triangle](https://github.com/Nandini675/dsa/tree/master/3321-type-of-triangle) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Nandini675/dsa/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Trie
 |  |
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2681-put-marbles-in-bags](https://github.com/Nandini675/dsa/tree/master/2681-put-marbles-in-bags) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Nandini675/dsa/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Nandini675/dsa/tree/master/3291-find-if-array-can-be-sorted) |
+| [3321-type-of-triangle](https://github.com/Nandini675/dsa/tree/master/3321-type-of-triangle) |
 | [3430-count-days-without-meetings](https://github.com/Nandini675/dsa/tree/master/3430-count-days-without-meetings) |
 ## Heap (Priority Queue)
 |  |
