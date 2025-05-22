@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Nandini675/dsa/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Nandini675/dsa/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3639-zero-array-transformation-i](https://github.com/Nandini675/dsa/tree/master/3639-zero-array-transformation-i) |
+| [3647-zero-array-transformation-iii](https://github.com/Nandini675/dsa/tree/master/3647-zero-array-transformation-iii) |
 ## Binary Search
 |  |
 | ------- |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Nandini675/dsa/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2681-put-marbles-in-bags](https://github.com/Nandini675/dsa/tree/master/2681-put-marbles-in-bags) |
 | [2716-prime-subtraction-operation](https://github.com/Nandini675/dsa/tree/master/2716-prime-subtraction-operation) |
+| [3647-zero-array-transformation-iii](https://github.com/Nandini675/dsa/tree/master/3647-zero-array-transformation-iii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2249-count-the-hidden-sequences](https://github.com/Nandini675/dsa/tree/master/2249-count-the-hidden-sequences) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Nandini675/dsa/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [3639-zero-array-transformation-i](https://github.com/Nandini675/dsa/tree/master/3639-zero-array-transformation-i) |
+| [3647-zero-array-transformation-iii](https://github.com/Nandini675/dsa/tree/master/3647-zero-array-transformation-iii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -300,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3291-find-if-array-can-be-sorted](https://github.com/Nandini675/dsa/tree/master/3291-find-if-array-can-be-sorted) |
 | [3321-type-of-triangle](https://github.com/Nandini675/dsa/tree/master/3321-type-of-triangle) |
 | [3430-count-days-without-meetings](https://github.com/Nandini675/dsa/tree/master/3430-count-days-without-meetings) |
+| [3647-zero-array-transformation-iii](https://github.com/Nandini675/dsa/tree/master/3647-zero-array-transformation-iii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -312,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Nandini675/dsa/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2681-put-marbles-in-bags](https://github.com/Nandini675/dsa/tree/master/2681-put-marbles-in-bags) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Nandini675/dsa/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3647-zero-array-transformation-iii](https://github.com/Nandini675/dsa/tree/master/3647-zero-array-transformation-iii) |
 ## Bucket Sort
 |  |
 | ------- |
