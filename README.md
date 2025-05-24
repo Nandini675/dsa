@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1073-number-of-enclaves](https://github.com/Nandini675/dsa/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Nandini675/dsa/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Nandini675/dsa/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Nandini675/dsa/tree/master/1370-count-number-of-nice-subarrays) |
 | [1396-count-servers-that-communicate](https://github.com/Nandini675/dsa/tree/master/1396-count-servers-that-communicate) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Nandini675/dsa/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Nandini675/dsa/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Nandini675/dsa/tree/master/0410-split-array-largest-sum) |
 | [0966-binary-subarrays-with-sum](https://github.com/Nandini675/dsa/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Nandini675/dsa/tree/master/1046-max-consecutive-ones-iii) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Nandini675/dsa/tree/master/1370-count-number-of-nice-subarrays) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Nandini675/dsa/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Nandini675/dsa/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Nandini675/dsa/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Nandini675/dsa/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Nandini675/dsa/tree/master/0070-climbing-stairs) |
 | [0670-maximum-swap](https://github.com/Nandini675/dsa/tree/master/0670-maximum-swap) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Nandini675/dsa/tree/master/1370-count-number-of-nice-subarrays) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Nandini675/dsa/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Nandini675/dsa/tree/master/1477-product-of-the-last-k-numbers) |
 | [1500-count-largest-group](https://github.com/Nandini675/dsa/tree/master/1500-count-largest-group) |
@@ -278,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Nandini675/dsa/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1039-find-the-town-judge](https://github.com/Nandini675/dsa/tree/master/1039-find-the-town-judge) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Nandini675/dsa/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Nandini675/dsa/tree/master/1370-count-number-of-nice-subarrays) |
 | [1500-count-largest-group](https://github.com/Nandini675/dsa/tree/master/1500-count-largest-group) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Nandini675/dsa/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Nandini675/dsa/tree/master/1890-sum-of-beauty-of-all-substrings) |
@@ -555,6 +559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/Nandini675/dsa/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/Nandini675/dsa/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Nandini675/dsa/tree/master/1046-max-consecutive-ones-iii) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Nandini675/dsa/tree/master/1370-count-number-of-nice-subarrays) |
 | [1755-defuse-the-bomb](https://github.com/Nandini675/dsa/tree/master/1755-defuse-the-bomb) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Nandini675/dsa/tree/master/2626-count-the-number-of-good-subarrays) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Nandini675/dsa/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
