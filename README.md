@@ -443,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1396-count-servers-that-communicate](https://github.com/Nandini675/dsa/tree/master/1396-count-servers-that-communicate) |
 | [1753-path-with-minimum-effort](https://github.com/Nandini675/dsa/tree/master/1753-path-with-minimum-effort) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Nandini675/dsa/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+| [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Nandini675/dsa/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -490,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Nandini675/dsa/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Nandini675/dsa/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Nandini675/dsa/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Nandini675/dsa/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -521,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Nandini675/dsa/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Nandini675/dsa/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Nandini675/dsa/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Nandini675/dsa/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 ## Binary Tree
 |  |
 | ------- |
