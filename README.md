@@ -226,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Nandini675/dsa/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Nandini675/dsa/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Nandini675/dsa/tree/master/0125-valid-palindrome) |
+| [0126-word-ladder-ii](https://github.com/Nandini675/dsa/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Nandini675/dsa/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/Nandini675/dsa/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Nandini675/dsa/tree/master/0205-isomorphic-strings) |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Nandini675/dsa/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Nandini675/dsa/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Nandini675/dsa/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0126-word-ladder-ii](https://github.com/Nandini675/dsa/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Nandini675/dsa/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/Nandini675/dsa/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/Nandini675/dsa/tree/master/0138-copy-list-with-random-pointer) |
@@ -473,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Nandini675/dsa/tree/master/0022-generate-parentheses) |
+| [0126-word-ladder-ii](https://github.com/Nandini675/dsa/tree/master/0126-word-ladder-ii) |
 | [0257-binary-tree-paths](https://github.com/Nandini675/dsa/tree/master/0257-binary-tree-paths) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Nandini675/dsa/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 ## Tree
@@ -519,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/Nandini675/dsa/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Nandini675/dsa/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Nandini675/dsa/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0126-word-ladder-ii](https://github.com/Nandini675/dsa/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Nandini675/dsa/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/Nandini675/dsa/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/Nandini675/dsa/tree/master/0133-clone-graph) |
