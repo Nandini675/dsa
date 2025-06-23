@@ -271,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Nandini675/dsa/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2032-largest-odd-number-in-string](https://github.com/Nandini675/dsa/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/Nandini675/dsa/tree/master/2050-count-good-numbers) |
+| [2202-sum-of-k-mirror-numbers](https://github.com/Nandini675/dsa/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2716-prime-subtraction-operation](https://github.com/Nandini675/dsa/tree/master/2716-prime-subtraction-operation) |
 | [3321-type-of-triangle](https://github.com/Nandini675/dsa/tree/master/3321-type-of-triangle) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Nandini675/dsa/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -729,4 +730,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Nandini675/dsa/tree/master/0062-unique-paths) |
+## Enumeration
+|  |
+| ------- |
+| [2202-sum-of-k-mirror-numbers](https://github.com/Nandini675/dsa/tree/master/2202-sum-of-k-mirror-numbers) |
 <!---LeetCode Topics End-->
