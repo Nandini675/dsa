@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Nandini675/dsa/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Nandini675/dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Nandini675/dsa/tree/master/0027-remove-element) |
+| [0039-combination-sum](https://github.com/Nandini675/dsa/tree/master/0039-combination-sum) |
 | [0053-maximum-subarray](https://github.com/Nandini675/dsa/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/Nandini675/dsa/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Nandini675/dsa/tree/master/0064-minimum-path-sum) |
@@ -493,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Nandini675/dsa/tree/master/0022-generate-parentheses) |
+| [0039-combination-sum](https://github.com/Nandini675/dsa/tree/master/0039-combination-sum) |
 | [0126-word-ladder-ii](https://github.com/Nandini675/dsa/tree/master/0126-word-ladder-ii) |
 | [0257-binary-tree-paths](https://github.com/Nandini675/dsa/tree/master/0257-binary-tree-paths) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Nandini675/dsa/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
