@@ -10,31 +10,31 @@
  */
 class Solution {
 public:
+ ListNode * merge2list(ListNode* a, ListNode*b){
+     if(a==NULL) return b;
+     if(b==NULL) return a;
+      if(a->val<=b->val){
+a->next= merge2list(a->next,b);
+return a;
+      }
+      else{
+b->next= merge2list(a,b->next);
+return b;
+      }
+ }
+ 
+ ListNode* partitionmer(int s, int e, vector<ListNode*>& lists){
+ if(s== e) return lists[s];
+ if(s>e) return NULL;
+ int mid= (s+e)/2;
+  ListNode* l1=partitionmer(s,mid,lists);
+  ListNode* l2=partitionmer(mid+1,e,lists);
+  return merge2list(l1,l2);
+  
+ }
     ListNode* mergeKLists(vector<ListNode*>& lists) {
-         if(lists.size()==0) return NULL;
-         ListNode* dummy= new ListNode(-1);
-          ListNode* temp= dummy;
-         struct compare{
-          bool operator()(ListNode* a, ListNode*b)
-          {
-             return (a->val> b->val);
-          }
-         };
-          priority_queue<ListNode*,vector<ListNode*>,compare>pq;
-          for(auto head: lists){
-            if(head){
-            pq.push(head);
-            }
-          }
-           while(!pq.empty()){
-            ListNode* minnode= pq.top();
-            pq.pop();
-             if(minnode->next!=NULL){
-                pq.push(minnode->next);
-             }
-              temp->next= minnode;
-              temp= temp->next;
-           }
- return dummy->next;
-    } 
+         if(lists.size()==NULL) return NULL;
+         
+          return partitionmer(0,lists.size()-1,lists);
+    }
 };
