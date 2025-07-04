@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Nandini675/dsa/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Nandini675/dsa/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Nandini675/dsa/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/Nandini675/dsa/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Nandini675/dsa/tree/master/0084-largest-rectangle-in-histogram) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Nandini675/dsa/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Nandini675/dsa/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Nandini675/dsa/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Nandini675/dsa/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Nandini675/dsa/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/Nandini675/dsa/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/Nandini675/dsa/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Nandini675/dsa/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Nandini675/dsa/tree/master/0240-search-a-2d-matrix-ii) |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Nandini675/dsa/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Nandini675/dsa/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Nandini675/dsa/tree/master/0067-add-binary) |
+| [0079-word-search](https://github.com/Nandini675/dsa/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Nandini675/dsa/tree/master/0125-valid-palindrome) |
 | [0126-word-ladder-ii](https://github.com/Nandini675/dsa/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Nandini675/dsa/tree/master/0127-word-ladder) |
@@ -471,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Nandini675/dsa/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Nandini675/dsa/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/Nandini675/dsa/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/Nandini675/dsa/tree/master/0099-recover-binary-search-tree) |
@@ -521,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Nandini675/dsa/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Nandini675/dsa/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Nandini675/dsa/tree/master/0040-combination-sum-ii) |
+| [0079-word-search](https://github.com/Nandini675/dsa/tree/master/0079-word-search) |
 | [0126-word-ladder-ii](https://github.com/Nandini675/dsa/tree/master/0126-word-ladder-ii) |
 | [0131-palindrome-partitioning](https://github.com/Nandini675/dsa/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/Nandini675/dsa/tree/master/0257-binary-tree-paths) |
