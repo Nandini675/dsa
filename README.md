@@ -449,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Nandini675/dsa/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Nandini675/dsa/tree/master/0503-next-greater-element-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Nandini675/dsa/tree/master/0780-max-chunks-to-make-sorted) |
+| [0937-online-stock-span](https://github.com/Nandini675/dsa/tree/master/0937-online-stock-span) |
 | [1002-maximum-width-ramp](https://github.com/Nandini675/dsa/tree/master/1002-maximum-width-ramp) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Nandini675/dsa/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Nandini675/dsa/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
@@ -493,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Nandini675/dsa/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Nandini675/dsa/tree/master/0503-next-greater-element-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Nandini675/dsa/tree/master/0780-max-chunks-to-make-sorted) |
+| [0937-online-stock-span](https://github.com/Nandini675/dsa/tree/master/0937-online-stock-span) |
 | [1002-maximum-width-ramp](https://github.com/Nandini675/dsa/tree/master/1002-maximum-width-ramp) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Nandini675/dsa/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Nandini675/dsa/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -717,6 +719,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/Nandini675/dsa/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Nandini675/dsa/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Nandini675/dsa/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0937-online-stock-span](https://github.com/Nandini675/dsa/tree/master/0937-online-stock-span) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Nandini675/dsa/tree/master/1477-product-of-the-last-k-numbers) |
 ## Binary Search Tree
 |  |
@@ -793,6 +796,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Nandini675/dsa/tree/master/0295-find-median-from-data-stream) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Nandini675/dsa/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0937-online-stock-span](https://github.com/Nandini675/dsa/tree/master/0937-online-stock-span) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Nandini675/dsa/tree/master/1477-product-of-the-last-k-numbers) |
 ## Memoization
 |  |
