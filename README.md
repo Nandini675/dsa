@@ -276,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Nandini675/dsa/tree/master/0451-sort-characters-by-frequency) |
 | [0812-rotate-string](https://github.com/Nandini675/dsa/tree/master/0812-rotate-string) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Nandini675/dsa/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/Nandini675/dsa/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1304-longest-happy-string](https://github.com/Nandini675/dsa/tree/master/1304-longest-happy-string) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Nandini675/dsa/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Nandini675/dsa/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
