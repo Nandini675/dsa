@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/Nandini675/dsa/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Nandini675/dsa/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/Nandini675/dsa/tree/master/0216-combination-sum-iii) |
+| [0239-sliding-window-maximum](https://github.com/Nandini675/dsa/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Nandini675/dsa/tree/master/0240-search-a-2d-matrix-ii) |
 | [0322-coin-change](https://github.com/Nandini675/dsa/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/Nandini675/dsa/tree/master/0347-top-k-frequent-elements) |
@@ -404,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Nandini675/dsa/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Nandini675/dsa/tree/master/0215-kth-largest-element-in-an-array) |
+| [0239-sliding-window-maximum](https://github.com/Nandini675/dsa/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/Nandini675/dsa/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Nandini675/dsa/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Nandini675/dsa/tree/master/0451-sort-characters-by-frequency) |
@@ -681,6 +683,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Nandini675/dsa/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0239-sliding-window-maximum](https://github.com/Nandini675/dsa/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Nandini675/dsa/tree/master/0424-longest-repeating-character-replacement) |
 | [0940-fruit-into-baskets](https://github.com/Nandini675/dsa/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/Nandini675/dsa/tree/master/0966-binary-subarrays-with-sum) |
@@ -855,4 +858,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1187-print-foobar-alternately](https://github.com/Nandini675/dsa/tree/master/1187-print-foobar-alternately) |
 | [1203-print-in-order](https://github.com/Nandini675/dsa/tree/master/1203-print-in-order) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Nandini675/dsa/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Nandini675/dsa/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
