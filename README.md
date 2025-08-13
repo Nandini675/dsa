@@ -318,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Nandini675/dsa/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Nandini675/dsa/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Nandini675/dsa/tree/master/0070-climbing-stairs) |
+| [0326-power-of-three](https://github.com/Nandini675/dsa/tree/master/0326-power-of-three) |
 | [0670-maximum-swap](https://github.com/Nandini675/dsa/tree/master/0670-maximum-swap) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Nandini675/dsa/tree/master/1370-count-number-of-nice-subarrays) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Nandini675/dsa/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -512,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/Nandini675/dsa/tree/master/0060-permutation-sequence) |
 | [0206-reverse-linked-list](https://github.com/Nandini675/dsa/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Nandini675/dsa/tree/master/0234-palindrome-linked-list) |
+| [0326-power-of-three](https://github.com/Nandini675/dsa/tree/master/0326-power-of-three) |
 | [2050-count-good-numbers](https://github.com/Nandini675/dsa/tree/master/2050-count-good-numbers) |
 ## Monotonic Stack
 |  |
