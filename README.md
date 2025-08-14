@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/Nandini675/dsa/tree/master/0216-combination-sum-iii) |
 | [0239-sliding-window-maximum](https://github.com/Nandini675/dsa/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Nandini675/dsa/tree/master/0240-search-a-2d-matrix-ii) |
+| [0287-find-the-duplicate-number](https://github.com/Nandini675/dsa/tree/master/0287-find-the-duplicate-number) |
 | [0322-coin-change](https://github.com/Nandini675/dsa/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/Nandini675/dsa/tree/master/0347-top-k-frequent-elements) |
 | [0410-split-array-largest-sum](https://github.com/Nandini675/dsa/tree/master/0410-split-array-largest-sum) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Nandini675/dsa/tree/master/0074-search-a-2d-matrix) |
 | [0222-count-complete-tree-nodes](https://github.com/Nandini675/dsa/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Nandini675/dsa/tree/master/0240-search-a-2d-matrix-ii) |
+| [0287-find-the-duplicate-number](https://github.com/Nandini675/dsa/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/Nandini675/dsa/tree/master/0410-split-array-largest-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Nandini675/dsa/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Nandini675/dsa/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Nandini675/dsa/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Nandini675/dsa/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Nandini675/dsa/tree/master/0234-palindrome-linked-list) |
+| [0287-find-the-duplicate-number](https://github.com/Nandini675/dsa/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/Nandini675/dsa/tree/master/0295-find-median-from-data-stream) |
 | [0455-assign-cookies](https://github.com/Nandini675/dsa/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Nandini675/dsa/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -734,6 +737,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/Nandini675/dsa/tree/master/0067-add-binary) |
 | [0222-count-complete-tree-nodes](https://github.com/Nandini675/dsa/tree/master/0222-count-complete-tree-nodes) |
+| [0287-find-the-duplicate-number](https://github.com/Nandini675/dsa/tree/master/0287-find-the-duplicate-number) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Nandini675/dsa/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Nandini675/dsa/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Nandini675/dsa/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
