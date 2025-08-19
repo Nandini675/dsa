@@ -1,0 +1,24 @@
+class Solution {
+public:
+    string countAndSay(int n) {
+        if(n==1){
+            return "1";
+        }
+        string say = countAndSay(n-1);
+        string res = "";
+
+        for(int i =0; i< say.length();i++){
+            char ch = say[i];
+            int count = 1;
+            while(say[i] == say[i+1]){
+                count++;
+                i++;
+            } 
+         
+          res+= to_string(count);
+          res+= ch;
+        }
+        return res;
+
+    }
+};
